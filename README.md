@@ -4,6 +4,9 @@
 Este projeto apresenta um circuito simples que identifica automaticamente
 os pinos de um transistor BJT (base, coletor e emissor) e de MOSFETS (gate, dreno e source).
 
+Explicação detalhada no youtube:
+https://youtu.be/tWX5zOY86xA?si=tbZzEYXgTQs7fTBx
+
 ## Componentes utilizados
 6 Resistores de 330ohm
 3 Resistores de 1kohm
@@ -48,3 +51,4 @@ O LED amarelo indica se o transistor tem diodo interno entre o coletor e o emiss
 
 ## Observações
 Projeto voltado para uso didático e de bancada. Demonstração e maiores explicações no video do youtube no canal baixaimpedancia.
+https://youtu.be/tWX5zOY86xA?si=tbZzEYXgTQs7fTBx
