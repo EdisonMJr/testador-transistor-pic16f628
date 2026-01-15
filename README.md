@@ -9,21 +9,29 @@ https://youtu.be/tWX5zOY86xA?si=tbZzEYXgTQs7fTBx
 
 ## Componentes utilizados
 6 Resistores de 330ohm
+
 3 Resistores de 1kohm
+
 1 Resistor de 10kohm
+
 3 Resistores de 100kohm
 
 1 Regulador	LM78L05
+
 1 Soquete Dip 18 pinos fino para o PIC
+
 1 PIC16F628 ou PIC16F648 (qualquer um deles serve)
 
 3	LEDs 5mm(vermelho)
+
 2 LEDs 5mm(verde)
+
 1	LED 5mm(amarelo)
 	
 2 Lampadas arrozinho (proteção)
 
 1 Soquete barra 3x1
+
 1 Soquete torneado 3x1
 
 1 Conector de bateria 9V
