@@ -1,0 +1,49 @@
+
+R1	1k
+R2	1k
+R3	1k
+R4	100k
+R5	100k
+R6	100k
+R7	330
+R8	330
+R9	330
+R10	330
+R11	330
+R12	330
+R13	10k
+
+U1	LM78L05
+U2	Soquete Dip 18 pinos
+
+-	LED 5mm(vermelho)
+-	LED 5mm(vermelho)
+-	LED 5mm(vermelho)
+
+-	LED 5mm(verde)
+-	LED 5mm(verde)
+
+-	LED 5mm(amarelo)
+	
+Lp1	Lampada arrozinho
+Lp2	Lampada arrozinho
+
+-	Soquete barra 3x1
+-	Soquete torneado 3x1
+
+-	Conector de bateria 9V
+
+-	Jump 7.25
+
+
+
+
+
+
+
+
+
+
+
+
+
