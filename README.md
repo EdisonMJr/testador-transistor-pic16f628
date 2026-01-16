@@ -41,9 +41,13 @@ O microcontrolador aplica sinais de teste aos terminais do transistor
 e identifica a base, o coletor e o emissor, indicando o resultado através de LEDs.
 
 Os LEDs vermelhos indicam a pinagem:
+
 Base (ou gate no caso de Mosfet) - Led que pisca
+
 Coletor (ou dreno no caso de Mosfet) - Led aceso
+
 Emissor (ou source no caso de Mosfet) - Led apagado
+
 
 Os LEDs verdes indicam se é NPN ou PNP ( Canal N ou Canal P no caso de Mosfet)
 
@@ -51,10 +55,17 @@ O LED amarelo indica se o transistor tem diodo interno entre o coletor e o emiss
 
 ## Arquivos
 - Arquivos Gaber do layout da placa
+
 - PDF para imprimir em papel couchê para confeccionar a placa com ferro de passar
+
+- Lista de componentes em .txt
+
 - Imagens do layout em .bmp
+
 - Foto do Circuito montado
+
 - arquivo HEX para gravar o PIC16F628
+
 - arquivo HEX para gravar o PIC16F648
 
 ## Observações
