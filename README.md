@@ -68,6 +68,15 @@ O LED amarelo indica se o transistor tem diodo interno entre o coletor e o emiss
 
 - arquivo HEX para gravar o PIC16F648
 
+
+
+
 ## Observações
 Projeto voltado para uso didático e de bancada. Demonstração e maiores explicações no video do youtube no canal baixaimpedancia.
 https://youtu.be/tWX5zOY86xA?si=tbZzEYXgTQs7fTBx
+
+Existe as versões v1 e v2 dos arquivos hex. 
+A versão v2 tem uma melhoria no firmware para detectar fuga entre coletor e emissor. isso é explicado no video do youtube no canal baixa impedânca 
+https://youtu.be/hqw_otST1L8?si=OxLvrVboLv7B87VD
+
+
